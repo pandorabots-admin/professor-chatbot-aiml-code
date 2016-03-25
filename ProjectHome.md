@@ -1,0 +1,3 @@
+A collection of AIML files used in The Professor 2.0 chatbot, containing an estimated 500,000 AIML categories, and including 150,000 categories from the Wordnet 3.0 database. The Professor 2.0 chatbot can be viewed <a href='http://www.pandorabots.com/pandora/talk?botid=a35d06771e340628'>here</a>.
+
+Botmasters who download this code and use it in their own version of The Professor are invited to add their update files to this site. Contact plafferty@live.co.uk if you want to do this.
